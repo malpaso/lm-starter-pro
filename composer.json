@@ -1,0 +1,9 @@
+{
+  "name": "malpaso/lm-starter-pro",
+  "extra": {
+    "statamic": {
+      "name": "Pro Starter",
+      "description": "Pro starter kit"
+    }
+  }
+}
